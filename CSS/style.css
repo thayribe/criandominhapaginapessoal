@@ -56,4 +56,19 @@ h3 {
 
 body {
   margin: 0px;
+  position: absolute;
+  display: block;
+  background-color: #2e2d4c;
+}
+
+.footer {
+  color: #ffffff;
+  text-align: center;
+  background-color: #2e2d4c;
+  margin: 136px;
+  font-size: 20px;
+}
+
+a {
+  color: #ffffff;
 }
