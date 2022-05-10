@@ -9,7 +9,7 @@
 .cabeçalho {
   text-align: center;
   color: #ffffff;
-  padding: 30px;
+  padding: 60px;
 }
 
 .topo {
@@ -36,19 +36,21 @@ img {
 }
 
 .navegação li a:hover {
-  color: rgb(255, 255, 255);
-  background-color: #220f1f;
+  color: #2e2d4c;
+
+  transform: scale(1.5);
+  box-shadow: 0 2px 25px #2e2d4c;
 }
 
 h3 {
   font-size: 1.2rem;
   margin-top: 50px;
+  color: #2e2d4c;
 }
 
 .background {
   background-color: #2e2d4c;
-  background-image: url(../luz.png);
-  background-repeat: no-repeat;
+  background-image: url(../fundo.png);
   background-attachment: fixed;
 }
 
